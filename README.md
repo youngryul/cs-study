@@ -6,6 +6,6 @@ IT 5분 잡학사전 책 읽고 기록
 ![image](https://github.com/user-attachments/assets/ee9e0364-506f-4c9e-a13b-34c52f84b4ce)
 
 
-<h4>목차</h4>
-<div>[TIL 1일차](TIL1.md)</div>
-<div>[TIL 2일차](TIL2.md) </div>
+<목차> <br/>
+[TIL 1일차](TIL1.md) <br/>
+[TIL 2일차](TIL2.md) <br/>
