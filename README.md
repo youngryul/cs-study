@@ -7,5 +7,5 @@ IT 5분 잡학사전 책 읽고 기록
 
 
 <h4>목차</h4>
-[TIL 1일차](TIL1.md) <br/>
-[TIL 2일차](TIL2.md) <br/>
+<div>[TIL 1일차](TIL1.md)</div>
+<div>[TIL 2일차](TIL2.md) </div>
