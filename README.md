@@ -5,3 +5,4 @@ IT 5분 잡학사전 책 읽고 기록
 
 ![image](https://github.com/user-attachments/assets/ee9e0364-506f-4c9e-a13b-34c52f84b4ce)
 
+[TIL 1일차](TIL1.md)
