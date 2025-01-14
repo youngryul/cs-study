@@ -13,3 +13,5 @@ IT 5분 잡학사전 책 읽고 기록
 [TIL 4일차](TIL4.md) <br/>
 [TIL 5일차](TIL5.md) <br/>
 [TIL 6일차](TIL6.md) <br/>
+[TIL 7일차](TIL7.md) <br/>
+[TIL 8일차](TIL8.md) <br/>
